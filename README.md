@@ -2,7 +2,7 @@
 
 # 📺 Netflix Content Strategy Dashboard
 
-![Power BI Dashboard Preview](images/netflix_dashboard.png)   <!-- MAKE SURE THIS PATH IS CORRECT -->
+![Power BI Dashboard Preview](netflix_dashboard.png)
 
 ## 📌 Project Objective
 To analyze Netflix’s content library using **SQL** and **Power BI**, uncovering trends in content production, genre popularity, and regional focus to help the content acquisition team make data-driven decisions.
