@@ -37,7 +37,7 @@ Netflix spends billions on original content. Without analyzing the existing libr
 3.  **Improve Data Governance**: The high rate of missing "Director" and "Country" metadata should be flagged to the catalog team to ensure future content uploads are complete.
 
 ## Repository Contents
-## 📁 Repository Contents
+## Repository Contents
 
 | File | Description |
 | :--- | :--- |
