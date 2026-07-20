@@ -37,13 +37,17 @@ Netflix spends billions on original content. Without analyzing the existing libr
 3.  **Improve Data Governance**: The high rate of missing "Director" and "Country" metadata should be flagged to the catalog team to ensure future content uploads are complete.
 
 ## Repository Contents
+## 📁 Repository Contents
+
 | File | Description |
 | :--- | :--- |
 | `netflix.ipynb` | Jupyter Notebook with SQLite setup and all SQL queries. |
 | `netflix_dashboard.pbix` | The complete Power BI dashboard file. |
-| `images/dashboard_preview.png` | Static screenshot of the dashboard. |
-| `netflix_cleaned.csv` | Final cleaned dataset exported for visualization. |
-| `country_breakdown.csv` | Aggregated data showing content by country. |
+| `netflix_dashboard.png` | Static screenshot of the dashboard. |
+| `netflix_cleaned.csv` | Full cleaned dataset (raw rows, one per title). |
+| `country_breakdown.csv` | Aggregated count of titles by country. |
+| `genre_trend.csv` | Aggregated count of titles by year and genre combination. |
+| `rating_by_type.csv` | Aggregated count of titles by rating and content type (Movie/TV Show). |
 
 
 
