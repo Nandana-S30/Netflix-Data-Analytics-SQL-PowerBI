@@ -1,6 +1,5 @@
 # Netflix-Data-Analytics-SQL-PowerBI
 
-# 📺 Netflix Content Strategy Dashboard
 
 ![Power BI Dashboard Preview](netflix_dashboard.png)
 
