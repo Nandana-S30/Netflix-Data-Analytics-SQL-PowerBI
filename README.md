@@ -47,6 +47,5 @@ Netflix spends billions on original content. Without analyzing the existing libr
 | `country_breakdown.csv` | Aggregated data showing content by country. |
 
 
----
 
-⭐ *If you found this project insightful, please give it a star!* ⭐
+
