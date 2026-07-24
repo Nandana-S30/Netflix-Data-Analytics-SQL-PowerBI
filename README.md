@@ -36,7 +36,7 @@ Netflix spends billions on original content. Without analyzing the existing libr
 2.  **Capitalize on Short-Form Drama**: With an average movie length of 100 minutes, Netflix should prioritize acquiring **90-110 minute dramas**, as these have higher completion rates than longer epics.
 3.  **Improve Data Governance**: The high rate of missing "Director" and "Country" metadata should be flagged to the catalog team to ensure future content uploads are complete.
 
-## Repository Contents
+
 ## Repository Contents
 
 | File | Description |
